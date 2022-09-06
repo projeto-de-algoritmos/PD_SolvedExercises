@@ -8,3 +8,6 @@ class Solution:
             two = temp
 
         return one
+
+    ## Entradas
+    print(climbStairs(1,3))
