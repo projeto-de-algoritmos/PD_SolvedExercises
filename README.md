@@ -1,44 +1,43 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# PD_Solved-Exercises
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Prog Dinamica<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0101711  |  Daniel Barcelos Moreira |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O objetivo do projeto é solucionar alguns problemas de juízes online fazendo o uso de prog dinamica.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Problema da Escada
+[Link para o problema](https://leetcode.com/problems/climbing-stairs/)
+
+![Accepted Climbing Stairs](./images/screenshot1.png)
+</figcaption>
+    Imagem 1: Accepted Climbing Stairs
+</figcaption>
+
+### Problema Coin Change
+
+[Link para o problema](https://leetcode.com/problems/coin-change/)
+
+![Accepted Busyman](./images/screenshot2.png)
+</figcaption>
+    Imagem 2: Accepted Coin Change
+</figcaption>
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+- Instale o [python 3](https://www.python.org/downloads/);
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+```
+python3 stairs.py
+python3 coin.py
+```
 
 
 
